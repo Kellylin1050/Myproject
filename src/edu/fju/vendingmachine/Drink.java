@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.vendingmachine;
 
 public class Drink {
     int price;

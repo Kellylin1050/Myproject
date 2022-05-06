@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.dice;
 
 import java.util.Random;
 public class Dice {

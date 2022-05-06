@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.cardgame;
 
 public class Sorting1 {
     public static void main(String[] args) {

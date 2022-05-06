@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.cardgame;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

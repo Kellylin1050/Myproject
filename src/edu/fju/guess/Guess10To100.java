@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.guess;
 
 import com.sun.source.tree.WhileLoopTree;
 

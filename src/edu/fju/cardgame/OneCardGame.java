@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.cardgame;
 
 import java.util.Random;
 import java.util.Scanner;

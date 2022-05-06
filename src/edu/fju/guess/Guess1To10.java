@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.guess;
 
 import java.util.Random;
 import java.util.Scanner;

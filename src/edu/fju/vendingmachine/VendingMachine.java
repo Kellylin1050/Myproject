@@ -1,4 +1,4 @@
-package edu.fju;
+package edu.fju.vendingmachine;
 
 import java.util.Scanner;
 
